@@ -2,4 +2,8 @@
 this is to check the status
 this is to check the deletion to previous commit
 this is on branch b1
+ ****************this is a file imported to branch b1 from master*******
+ moidfications done on branchb1:::
+***these are the changes odone to branch b1 content imported from master 
+***these will not reflect to master until b1 is merged back tpo master
 
