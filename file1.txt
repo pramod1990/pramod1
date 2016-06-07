@@ -1,2 +1,3 @@
  this is a first file from cli on branch master
-
+this is to check the status
+this is to check the deleting
